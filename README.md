@@ -1,7 +1,7 @@
 # CS 540 HW6 Spring 2023
 
 ## Important note
-The training data for this neural net is not included in this repository. In the original assignment, I had it stored in a "data" directory. For your own reference, this project uses the [Fashion-MNIST}](https://github.com/zalandoresearch/fashion-mnist) dataset.
+The training data for this neural net is not included in this repository. In the original assignment, I had it stored in a "data" directory. For your own reference, this project uses the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset.
 I would also recommend setting up your environment in a Python virtual environment, as that is what the assignment specification recommends.
 
 ## Required Packages
